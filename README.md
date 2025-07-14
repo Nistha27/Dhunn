@@ -7,12 +7,6 @@
 
 ---
 
-## 📽 Demo
-
-> YouTube Preview (if any): [Insert Link Here]
-
----
-
 ## 📌 Features
 
 - 🎧 **Music Playback** – Play/pause, seek, skip functionality
